@@ -7,11 +7,11 @@
             <h2 class="oe ok">
               Meet the team - The <i>Core</i> Team Of CHESIRA.
             </h2>
-            <p class="sz">
+            <!-- <p class="sz">
               Duis aute irure dolor in reprehenderit in voluptate velit esse
               cillum dolore eu fugiat nulla pariatur excepteur sint — occaecat
               cupidatat non proident, sunt in culpa qui.
-            </p>
+            </p> -->
           </div>
         </div>
         <div class="tiles-wrap">
@@ -20,7 +20,7 @@
               <div class="team-item-header">
                 <div class="team-item-image ue">
                   <img
-                    src="@/assets/team-member-01.jpg"
+                    src="https://avatars.dicebear.com/api/jdenticon/dio.svg"
                     alt="Team member 01"
                     width="180"
                     height="180"
@@ -28,14 +28,14 @@
                 </div>
               </div>
               <div class="team-item-content">
-                <h5 class="team-item-name oe ou">Markus Hasinika</h5>
+                <h5 class="team-item-name oe ou">Dio</h5>
                 <div class="team-item-role h so sg sh oh">
-                  Founder &amp; CEO
+                  <a href="https://www.instagram.com/dioaryatama" target="blank">@dioaryatama</a>
                 </div>
-                <p class="sz l">
+                <!-- <p class="sz l">
                   Magnis dis parturient montes nascetur. Quam quisque id diam
                   vel quam ultricies leo integer.
-                </p>
+                </p> -->
               </div>
             </div>
           </div>
@@ -44,7 +44,7 @@
               <div class="team-item-header">
                 <div class="team-item-image ue">
                   <img
-                    src="@/assets/team-member-02.jpg"
+                    src="https://avatars.dicebear.com/api/jdenticon/rama.svg"
                     alt="Team member 02"
                     width="180"
                     height="180"
@@ -52,14 +52,14 @@
                 </div>
               </div>
               <div class="team-item-content">
-                <h5 class="team-item-name oe ou">Diana Stafford</h5>
+                <h5 class="team-item-name oe ou">Rama</h5>
                 <div class="team-item-role h so sg sh oh">
-                  Founder &amp; CEO
+                  <a href="https://www.instagram.com/joyy_bae" target="blank">@joyy_bae</a>
                 </div>
-                <p class="sz l">
+                <!-- <p class="sz l">
                   Magnis dis parturient montes nascetur. Quam quisque id diam
                   vel quam ultricies leo integer.
-                </p>
+                </p> -->
               </div>
             </div>
           </div>
@@ -68,7 +68,7 @@
               <div class="team-item-header">
                 <div class="team-item-image ue">
                   <img
-                    src="@/assets/team-member-03.jpg"
+                    src="https://avatars.dicebear.com/api/jdenticon/alan.svg"
                     alt="Team member 03"
                     width="180"
                     height="180"
@@ -76,14 +76,14 @@
                 </div>
               </div>
               <div class="team-item-content">
-                <h5 class="team-item-name oe ou">Patricia Collins</h5>
+                <h5 class="team-item-name oe ou">Alan</h5>
                 <div class="team-item-role h so sg sh oh">
-                  Founder &amp; CEO
+                  <a href="https://www.instagram.com/mrpinguiiin_" target="blank">@mrpinguiiin_</a>
                 </div>
-                <p class="sz l">
+                <!-- <p class="sz l">
                   Magnis dis parturient montes nascetur. Quam quisque id diam
                   vel quam ultricies leo integer.
-                </p>
+                </p> -->
               </div>
             </div>
           </div>
@@ -92,7 +92,7 @@
               <div class="team-item-header">
                 <div class="team-item-image ue">
                   <img
-                    src="@/assets/team-member-04.jpg"
+                    src="https://avatars.dicebear.com/api/jdenticon/fami.svg"
                     alt="Team member 04"
                     width="180"
                     height="180"
@@ -100,14 +100,14 @@
                 </div>
               </div>
               <div class="team-item-content">
-                <h5 class="team-item-name oe ou">Anton Klenkov</h5>
+                <h5 class="team-item-name oe ou">Fahmi</h5>
                 <div class="team-item-role h so sg sh oh">
-                  Founder &amp; CEO
+                  <a href="https://www.instagram.com/fahmii_ardiann" target="blank">@fahmii_ardiann</a>
                 </div>
-                <p class="sz l">
+                <!-- <p class="sz l">
                   Magnis dis parturient montes nascetur. Quam quisque id diam
                   vel quam ultricies leo integer.
-                </p>
+                </p> -->
               </div>
             </div>
           </div>
@@ -116,7 +116,7 @@
               <div class="team-item-header">
                 <div class="team-item-image ue">
                   <img
-                    src="@/assets/team-member-05.jpg"
+                    src="https://avatars.dicebear.com/api/jdenticon/iqbal.svg"
                     alt="Team member 05"
                     width="180"
                     height="180"
@@ -124,18 +124,18 @@
                 </div>
               </div>
               <div class="team-item-content">
-                <h5 class="team-item-name oe ou">Nick Kornilov</h5>
+                <h5 class="team-item-name oe ou">Iqbal</h5>
                 <div class="team-item-role h so sg sh oh">
-                  Founder &amp; CEO
+                  <a href="https://www.instagram.com/iqbalmchdz" target="blank">@iqbalmchdz</a>
                 </div>
-                <p class="sz l">
+                <!-- <p class="sz l">
                   Magnis dis parturient montes nascetur. Quam quisque id diam
                   vel quam ultricies leo integer.
-                </p>
+                </p> -->
               </div>
             </div>
           </div>
-          <div class="ng reveal-from-bottom" data-reveal-delay="400">
+          <!-- <div class="ng reveal-from-bottom" data-reveal-delay="400">
             <div class="ny">
               <div class="team-item-header">
                 <div class="team-item-image ue">
@@ -158,7 +158,7 @@
                 </p>
               </div>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>

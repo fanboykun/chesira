@@ -21,13 +21,12 @@
         <nav id="nj" class="nj">
           <div class="nq">
                 <ul class="st h re">
-                  <li><a href="/about" :class="$route.name == 'About' ? 'tbuttonn cbuttonh gbuttony sbuttono' : ''">About</a></li>
+                  <li><router-link to="/about" :class="$route.name == 'About' ? 'tbuttonn cbuttonh gbuttony sbuttono' : ''">About</router-link></li>
                 </ul>
                 <ul class="st h re">
                   <li>
-                    <a :class="$route.name == 'Home' ? 'tbuttonn cbuttonh gbuttony sbuttono' : ''" href="/"
-                      >Home</a
-                    >
+                    <router-link to="/" :class="$route.name == 'Home' ? 'tbuttonn cbuttonh gbuttony sbuttono' : ''"
+                      >Home</router-link>
                   </li>
                 </ul>
               </div>
