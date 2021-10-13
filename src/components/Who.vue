@@ -20,7 +20,7 @@
               <div class="team-item-header">
                 <div class="team-item-image ue">
                   <img
-                    src="https://avatars.dicebear.com/api/jdenticon/dio.svg"
+                    src="@/assets/photos/dio.jpeg"
                     alt="Team member 01"
                     width="180"
                     height="180"
@@ -30,7 +30,7 @@
               <div class="team-item-content">
                 <h5 class="team-item-name oe ou">Dio</h5>
                 <div class="team-item-role h so sg sh oh">
-                  <a href="https://www.instagram.com/dioaryatama" target="blank">@dioaryatama</a>
+                  <a class="tbuttonn fbuttonl gbuttony" href="https://www.instagram.com/dioaryatama" target="blank">@dioaryatama</a>
                 </div>
                 <!-- <p class="sz l">
                   Magnis dis parturient montes nascetur. Quam quisque id diam
@@ -44,7 +44,7 @@
               <div class="team-item-header">
                 <div class="team-item-image ue">
                   <img
-                    src="https://avatars.dicebear.com/api/jdenticon/rama.svg"
+                    src="@/assets/photos/rama.jpeg"
                     alt="Team member 02"
                     width="180"
                     height="180"
@@ -54,7 +54,9 @@
               <div class="team-item-content">
                 <h5 class="team-item-name oe ou">Rama</h5>
                 <div class="team-item-role h so sg sh oh">
-                  <a href="https://www.instagram.com/joyy_bae" target="blank">@joyy_bae</a>
+              <div class="reveal-from-bottom" data-reveal-delay="450">
+                <a class="tbuttonn fbuttonl gbuttony" href="https://www.instagram.com/joyy_bae" target="blank">@joyy_bae</a>
+              </div>
                 </div>
                 <!-- <p class="sz l">
                   Magnis dis parturient montes nascetur. Quam quisque id diam
@@ -68,7 +70,7 @@
               <div class="team-item-header">
                 <div class="team-item-image ue">
                   <img
-                    src="https://avatars.dicebear.com/api/jdenticon/alan.svg"
+                    src="@/assets/photos/alan.jpeg"
                     alt="Team member 03"
                     width="180"
                     height="180"
@@ -78,7 +80,7 @@
               <div class="team-item-content">
                 <h5 class="team-item-name oe ou">Alan</h5>
                 <div class="team-item-role h so sg sh oh">
-                  <a href="https://www.instagram.com/mrpinguiiin_" target="blank">@mrpinguiiin_</a>
+                  <a class="tbuttonn fbuttonl gbuttony" href="https://www.instagram.com/mrpinguiiin_" target="blank">@mrpinguiiin_</a>
                 </div>
                 <!-- <p class="sz l">
                   Magnis dis parturient montes nascetur. Quam quisque id diam
@@ -92,7 +94,7 @@
               <div class="team-item-header">
                 <div class="team-item-image ue">
                   <img
-                    src="https://avatars.dicebear.com/api/jdenticon/fami.svg"
+                    src="@/assets/photos/fahmi.jpeg"
                     alt="Team member 04"
                     width="180"
                     height="180"
@@ -102,7 +104,7 @@
               <div class="team-item-content">
                 <h5 class="team-item-name oe ou">Fahmi</h5>
                 <div class="team-item-role h so sg sh oh">
-                  <a href="https://www.instagram.com/fahmii_ardiann" target="blank">@fahmii_ardiann</a>
+                  <a class="tbuttonn fbuttonl gbuttony" href="https://www.instagram.com/fahmii_ardiann" target="blank">@fahmii_ardiann</a>
                 </div>
                 <!-- <p class="sz l">
                   Magnis dis parturient montes nascetur. Quam quisque id diam
@@ -126,7 +128,9 @@
               <div class="team-item-content">
                 <h5 class="team-item-name oe ou">Iqbal</h5>
                 <div class="team-item-role h so sg sh oh">
-                  <a href="https://www.instagram.com/iqbalmchdz" target="blank">@iqbalmchdz</a>
+                  <a class="tbuttonn fbuttonl gbuttony" 
+                  href="https://www.instagram.com/iqbalmchdz" 
+                  target="blank">@iqbalmchdz</a>
                 </div>
                 <!-- <p class="sz l">
                   Magnis dis parturient montes nascetur. Quam quisque id diam

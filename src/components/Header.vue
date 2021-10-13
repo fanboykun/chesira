@@ -10,15 +10,16 @@
           </h1>
         </div>
         <button
+          v-on:click="setDropdown"
           id="th"
           class="th"
           aria-controls="primary-menu"
-          aria-expanded="false"
+          aria-expanded="true"
         >
           <span class="se">Menu</span>
           <span class="tp"><span class="td"></span></span>
         </button>
-        <nav id="nj" class="nj">
+        <nav id="nj" v-bind:class="[toggleActive ? activeClass : nonActiveClass]" v-bind:style="[toggleActive ? activeStyle : '']">
           <div class="nq">
                 <ul class="st h re">
                   <li><router-link to="/about" :class="$route.name == 'About' ? 'tbuttonn cbuttonh gbuttony sbuttono' : ''">About</router-link></li>
@@ -39,5 +40,24 @@
 <script>
 export default {
   name: "Header",
+  data() {
+    return {
+      toggleActive: false,
+      activeClass : 'nj tb',
+      nonActiveClass : 'nj',
+      activeStyle: 'max-height: 154px;',
+      }
+    },
+  methods:{
+    setDropdown() {
+      if((this.toggleActive == true)){
+        document.body.classList.remove('tv')
+        this.toggleActive = false;
+      }else{
+        document.body.classList.add('tv')
+        this.toggleActive = true;
+      }
+    }
+  }
 };
 </script>
