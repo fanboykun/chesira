@@ -126,7 +126,7 @@
               <div class="team-item-header">
                 <div class="team-item-image ue" data-aos="zoom-out-down" data-aos-easing="ease-in-out" data-aos-duration="1200">
                   <img
-                    src="https://avatars.dicebear.com/api/jdenticon/iqbal.svg"
+                    src="@/assets/photos/iqbal.jpeg"
                     alt="Team member 05"
                     width="180"
                     height="180"
