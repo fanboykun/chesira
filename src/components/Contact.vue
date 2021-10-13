@@ -1,9 +1,9 @@
 <template>
-  <section class="io nx az reveal-from-bottom">
+  <section class="io nx az reveal-from-bottom" data-aos="zoom-in-up" data-aos-easing="ease-in-out" data-aos-duration="1200">
     <div class="tcontainern">
       <div class="iq rd ia">
         <div class="iu">
-          <h3 class="sz">Ready To Bring Your Idea Alive? Send Us, We Discuss It!</h3>
+          <h3 class="sz" data-aos="zoom-in-down" data-aos-easing="ease-in-out" data-aos-duration="800">Ready To Bring Your Idea Alive? Send Us, We Discuss It!</h3>
         </div>
         <div class="cta-action">
           <form
@@ -15,6 +15,7 @@
             <div class="tu">
               <label for="email" class="x se">Email</label>
               <input
+                data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-duration="1200"
                 v-model="email"
                 id="newsletter"
                 class="j"
@@ -24,6 +25,7 @@
               />
               <label for="email" class="x se">Email</label>
               <textarea
+                data-aos="fade-left" data-aos-easing="ease-in-out" data-aos-duration="1200"
                 v-model="content"
                 id="content"
                 class="j ta"
@@ -37,7 +39,7 @@
                   fill-rule="nonzero"
                 ></path>
               </svg> -->
-              <div class="reveal-from-bottom" data-reveal-delay="450">
+              <div class="reveal-from-bottom" data-reveal-delay="450" data-aos="zoom-in-down" data-aos-easing="ease-in-out" data-aos-duration="1000">
                 <button type="submit" class="tbuttonn fbuttonl gbuttony">
                   SEND
                 </button>
