@@ -12,7 +12,7 @@
               </div>
               <div class="footer-copyright">
                 <!-- © 2020 Neon, all rights reserved -->
-                2021 Chesira - Where the future goes brrrr
+                2021 Chesira - All Rights Reserved
               </div>
             </div>
             <div class="ra">
